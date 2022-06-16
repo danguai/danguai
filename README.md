@@ -9,7 +9,7 @@ I'm originally from Venezuela, a software engineer with 20+ years of motion des
 
 ## ✉️ Find me on:
 <p align="center">
- <a href="https://danguai.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.instagram.com/danguai/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" alt="instagram" height="30" style="vertical-align:top; margin:4px"> </a>
  <a href="https://linkedin.com/in/blancodaniel" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:db@d-blanco.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="30" style="vertical-align:top; margin:4px"></a>
 </p>

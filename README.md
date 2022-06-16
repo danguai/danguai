@@ -5,4 +5,4 @@ I'm originally from Venezuela, a software engineer with 20+ years of motion des
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danguai&show_icons=true&theme=tokyonight)](https://github.com/danguai/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danguai&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/danguai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danguai&langs_count=4&show_icons=true&theme=tokyonight)](https://github.com/danguai/github-readme-stats)

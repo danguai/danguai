@@ -11,7 +11,9 @@ I'm originally from Venezuela, a software engineer with 20+ years of motion des
 <p align="center">
  <a href="https://www.instagram.com/danguai/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" alt="instagram" height="30" style="vertical-align:top; margin:4px"> </a>
  <a href="https://linkedin.com/in/blancodaniel" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="linkedin" height="30" style="vertical-align:top; margin:4px"></a>
-  <a href="https://d-blanco.com/" target="_blank" rel="noopener noreferrer"> <img src="https://toppng.com/uploads/preview/world-icon-web-icon-white-11563010874xluuy00vry.png" alt="d-blanco" height="30" style="vertical-align:top; margin:4px"></a>
+  <a href="https://d-blanco.com/" target="_blank" rel="noopener noreferrer"> <img src="![logo-website-website-icon-with-png-and-vector-format-for-unlimited-22](https://user-images.githubusercontent.com/87240318/174140479-0b11f73c-27df-46db-9412-072e36006802.png)" alt="d-blanco" height="30" style="vertical-align:top; margin:4px"></a>
+
+
  <a href="mailto:db@d-blanco.com"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="gmail" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
 
